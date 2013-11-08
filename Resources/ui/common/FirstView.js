@@ -25,6 +25,7 @@ function FirstView() {
 	});
 	self.add(text1);
 	
+	
 	var text2=Ti.UI.createTextField({
 		borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED,
 		color: '#336699',
